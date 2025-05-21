@@ -1,5 +1,6 @@
 #  Mean and variance of a discrete  distribution
-
+## NAME:VESHWANTH
+## REG NO: 212224230300
 
 # Aim : 
 
